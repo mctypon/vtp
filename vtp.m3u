@@ -1,0 +1,157 @@
+#EXTM3U
+#EXTINF:-1,2 - France 2 (HD)
+#EXTGRP:Principale
+rtsp://mafreebox.freebox.fr/fbxtv_pub/stream?namespace=1&service=201&flavour=hd
+#EXTINF:-1,3 - France 3 (HD)
+#EXTGRP:Principale
+rtsp://mafreebox.freebox.fr/fbxtv_pub/stream?namespace=1&service=202&flavour=hd
+#EXTINF:-1,14 - France 4 (HD)
+#EXTGRP:Principale
+rtsp://mafreebox.freebox.fr/fbxtv_pub/stream?namespace=1&service=376&flavour=hd
+#EXTINF:-1,5 - France 5 (HD)
+#EXTGRP:Principale
+rtsp://mafreebox.freebox.fr/fbxtv_pub/stream?namespace=1&service=203&flavour=hd
+#EXTINF:-1,7 - Arte (HD)
+#EXTGRP:Principale
+rtsp://mafreebox.freebox.fr/fbxtv_pub/stream?namespace=1&service=204&flavour=hd
+#EXTINF:-1,8 - C8 (standard)
+#EXTGRP:Principale
+rtsp://mafreebox.freebox.fr/fbxtv_pub/stream?namespace=1&service=372&flavour=sd
+#EXTINF:-1,27 - franceinfo (HD)
+#EXTGRP:Principale
+rtsp://mafreebox.freebox.fr/fbxtv_pub/stream?namespace=1&service=1173&flavour=hd
+#EXTINF:-1,15 - BFM TV (HD)
+#EXTGRP:Principale
+rtsp://mafreebox.freebox.fr/fbxtv_pub/stream?namespace=1&service=400&flavour=hd
+#EXTINF:-1,16 - CNews (standard)
+#EXTGRP:Principale
+rtsp://mafreebox.freebox.fr/fbxtv_pub/stream?namespace=1&service=679&flavour=sd
+#EXTINF:-1,24 - RMC Découverte (HD)
+#EXTGRP:Principale
+rtsp://mafreebox.freebox.fr/fbxtv_pub/stream?namespace=1&service=997&flavour=hd
+#EXTINF:-1,23 - RMC Story (HD)
+#EXTGRP:Principale
+rtsp://mafreebox.freebox.fr/fbxtv_pub/stream?namespace=1&service=996&flavour=hd
+#EXTINF:-1,25 - Chérie 25 (HD)
+#EXTGRP:Principale
+rtsp://mafreebox.freebox.fr/fbxtv_pub/stream?namespace=1&service=998&flavour=hd
+#EXTINF:-1,21 - L'Equipe (HD)
+#EXTGRP:Principale
+rtsp://mafreebox.freebox.fr/fbxtv_pub/stream?namespace=1&service=994&flavour=hd
+#EXTINF:-1,17 - CStar (HD)
+#EXTGRP:Principale
+rtsp://mafreebox.freebox.fr/fbxtv_pub/stream?namespace=1&service=678&flavour=hd
+#EXTINF:-1,18 - Gulli (HD)
+#EXTGRP:Principale
+rtsp://mafreebox.freebox.fr/fbxtv_pub/stream?namespace=1&service=677&flavour=hd
+#EXTINF:-1,12 - NRJ 12 (HD)
+#EXTGRP:Principale
+rtsp://mafreebox.freebox.fr/fbxtv_pub/stream?namespace=1&service=375&flavour=hd
+#EXTINF:-1,347 - BFM Business (HD)
+#EXTGRP:News
+rtsp://mafreebox.freebox.fr/fbxtv_pub/stream?namespace=1&service=897&flavour=hd
+#EXTINF:-1,359 - RT France (HD)
+#EXTGRP:News
+rtsp://mafreebox.freebox.fr/fbxtv_pub/stream?namespace=1&service=1304&flavour=hd
+#EXTINF:-1,340 - France 24 (standard)
+#EXTGRP:News
+rtsp://mafreebox.freebox.fr/fbxtv_pub/stream?namespace=1&service=739&flavour=sd
+#EXTINF:-1,342 - France 24 Arab (standard)
+#EXTGRP:News
+rtsp://mafreebox.freebox.fr/fbxtv_pub/stream?namespace=1&service=741&flavour=sd
+#EXTINF:-1,345 - Euronews (standard)
+#EXTGRP:News
+rtsp://mafreebox.freebox.fr/fbxtv_pub/stream?namespace=1&service=205&flavour=sd
+#EXTINF:-1,346 - Euronews Int (standard)
+#EXTGRP:News
+rtsp://mafreebox.freebox.fr/fbxtv_pub/stream?namespace=1&service=949&flavour=sd
+#EXTINF:-1,350 - Sky News International (standard)
+#EXTGRP:News
+rtsp://mafreebox.freebox.fr/fbxtv_pub/stream?namespace=1&service=355&flavour=sd
+#EXTINF:-1,353 - Bloomberg TV (standard)
+#EXTGRP:News
+rtsp://mafreebox.freebox.fr/fbxtv_pub/stream?namespace=1&service=207&flavour=sd
+#EXTINF:-1,354 - CNBC (standard)
+#EXTGRP:News
+rtsp://mafreebox.freebox.fr/fbxtv_pub/stream?namespace=1&service=208&flavour=sd
+#EXTINF:-1,355 - Al Jazeera International (standard)
+#EXTGRP:News
+rtsp://mafreebox.freebox.fr/fbxtv_pub/stream?namespace=1&service=494&flavour=sd
+#EXTINF:-1,357 - i24 News (standard)
+#EXTGRP:News
+rtsp://mafreebox.freebox.fr/fbxtv_pub/stream?namespace=1&service=1048&flavour=ld
+#EXTINF:-1,344 - Public Sénat (HD)
+#EXTGRP:News
+rtsp://mafreebox.freebox.fr/fbxtv_pub/stream?namespace=1&service=692&flavour=hd
+#EXTINF:-1,343 - LCP - Assemblée Nationale 24h/24 (HD)
+#EXTGRP:News
+rtsp://mafreebox.freebox.fr/fbxtv_pub/stream?namespace=1&service=688&flavour=hd
+#EXTINF:-1,358 - NHK World-Japan (HD)
+#EXTGRP:News
+rtsp://mafreebox.freebox.fr/fbxtv_pub/stream?namespace=1&service=812&flavour=hd
+#EXTINF:-1,47 - #ALaMaison (HD)
+#EXTGRP:Divertissement
+rtsp://mafreebox.freebox.fr/fbxtv_pub/stream?namespace=1&service=1426&flavour=hd
+#EXTINF:-1,231 - 01 TV (HD)
+#EXTGRP:Divertissement
+rtsp://mafreebox.freebox.fr/fbxtv_pub/stream?namespace=1&service=1424&flavour=hd
+#EXTINF:-1,50 - Game One (HD)
+#EXTGRP:Divertissement
+rtsp://mafreebox.freebox.fr/fbxtv_pub/stream?namespace=1&service=220&flavour=hd
+#EXTINF:-1,89 - Game One +1 (standard)
+#EXTGRP:Divertissement
+rtsp://mafreebox.freebox.fr/fbxtv_pub/stream?namespace=1&service=979&flavour=ld
+#EXTINF:-1,221 - Connaissances du monde (HD)
+#EXTGRP:Divertissement
+rtsp://mafreebox.freebox.fr/fbxtv_pub/stream?namespace=1&service=1384&flavour=hd
+#EXTINF:-1,97 - Comedy Central (HD)
+#EXTGRP:Divertissement
+rtsp://mafreebox.freebox.fr/fbxtv_pub/stream?namespace=1&service=1318&flavour=hd
+#EXTINF:-1,94 - GONG (HD)
+#EXTGRP:Divertissement
+rtsp://mafreebox.freebox.fr/fbxtv_pub/stream?namespace=1&service=1045&flavour=hd
+#EXTINF:-1,91 - ES1 (HD)
+#EXTGRP:Divertissement
+rtsp://mafreebox.freebox.fr/fbxtv_pub/stream?namespace=1&service=1309&flavour=hd
+#EXTINF:-1,237 - Luxe.TV (HD)
+#EXTGRP:Divertissement
+rtsp://mafreebox.freebox.fr/fbxtv_pub/stream?namespace=1&service=460&flavour=hd
+#EXTINF:-1,100 - Festival 4K (4K)
+#EXTGRP:Divertissement
+rtsp://mafreebox.freebox.fr/fbxtv_pub/stream?namespace=1&service=1134&flavour=hd
+#EXTINF:-1,51 - AB 1 (HD)
+#EXTGRP:Divertissement
+rtsp://mafreebox.freebox.fr/fbxtv_pub/stream?namespace=1&service=211&flavour=hd
+#EXTINF:-1,70 - TV5 Monde (HD)
+#EXTGRP:Divertissement
+rtsp://mafreebox.freebox.fr/fbxtv_pub/stream?namespace=1&service=206&flavour=hd
+#EXTINF:-1,180 - Automoto (HD)
+#EXTGRP:Divertissement
+rtsp://mafreebox.freebox.fr/fbxtv_pub/stream?namespace=1&service=222&flavour=hd
+#EXTINF:-1,182 - Motorvision (HD)
+#EXTGRP:Divertissement
+rtsp://mafreebox.freebox.fr/fbxtv_pub/stream?namespace=1&service=1127&flavour=hd
+#EXTINF:-1,183 - Nautical Channel (HD)
+#EXTGRP:Divertissement
+rtsp://mafreebox.freebox.fr/fbxtv_pub/stream?namespace=1&service=255&flavour=hd
+#EXTINF:-1,211 - Souvenirs from Earth (HD)
+#EXTGRP:Divertissement
+rtsp://mafreebox.freebox.fr/fbxtv_pub/stream?namespace=1&service=710&flavour=hd
+#EXTINF:-1,274 - Clubbing TV (HD)
+#EXTGRP:Divertissement
+rtsp://mafreebox.freebox.fr/fbxtv_pub/stream?namespace=1&service=767&flavour=hd
+#EXTINF:-1,283 - People 24
+#EXTGRP:Divertissement
+rtsp://mafreebox.freebox.fr/fbxtv_pub/stream?namespace=1&service=981&flavour=ld
+#EXTINF:-1,480 - Medi1TV (standard)
+#EXTGRP:Arab
+rtsp://mafreebox.freebox.fr/fbxtv_pub/stream?namespace=1&service=730&flavour=sd
+#EXTINF:-1,565 - TVM Europe (standard)
+#EXTGRP:Arab
+rtsp://mafreebox.freebox.fr/fbxtv_pub/stream?namespace=1&service=273&flavour=sd
+#EXTINF:-1,558 - Arriyadia (standard)
+#EXTGRP:Arab
+rtsp://mafreebox.freebox.fr/fbxtv_pub/stream?namespace=1&service=908&flavour=ld
+#EXTINF:-1,569 - Al Jazeera (standard)
+#EXTGRP:Arab
+rtsp://mafreebox.freebox.fr/fbxtv_pub/stream?namespace=1&service=276&flavour=sd
