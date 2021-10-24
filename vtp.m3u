@@ -1,157 +1,388 @@
 #EXTM3U
-#EXTINF:-1,2 - France 2 (HD)
-#EXTGRP:Principale
+#EXTINF:1 tvg-id="TF1.fr" tvg-country="FR" tvg-language="French" tvg-logo="https://i.imgur.com/CJAbJfM.png" ...,TF1 (720p)
+#EXTGRP:France
+http://flusonic-4.platinum-tv.com/TF1/index.m3u8?token=test
+#EXTINF:1,2 - France 2 (HD)
+#EXTGRP:France
 rtsp://mafreebox.freebox.fr/fbxtv_pub/stream?namespace=1&service=201&flavour=hd
-#EXTINF:-1,3 - France 3 (HD)
-#EXTGRP:Principale
+#EXTINF:1,3 - France 3 (HD)
+#EXTGRP:France
 rtsp://mafreebox.freebox.fr/fbxtv_pub/stream?namespace=1&service=202&flavour=hd
-#EXTINF:-1,14 - France 4 (HD)
-#EXTGRP:Principale
+#EXTINF:1,14 - France 4 (HD)
+#EXTGRP:France
 rtsp://mafreebox.freebox.fr/fbxtv_pub/stream?namespace=1&service=376&flavour=hd
-#EXTINF:-1,5 - France 5 (HD)
-#EXTGRP:Principale
+#EXTINF:1,5 - France 5 (HD)
+#EXTGRP:France
 rtsp://mafreebox.freebox.fr/fbxtv_pub/stream?namespace=1&service=203&flavour=hd
-#EXTINF:-1,7 - Arte (HD)
-#EXTGRP:Principale
+#EXTINF:1 tvg-id="M6.fr" tvg-country="FR" tvg-language="French" tvg-logo="https://static.epg.best/fr/M6.fr.p...,M6 (720p)
+#EXTGRP:France
+http://flusonic-4.platinum-tv.com/M6/mono.m3u8?token=test
+#EXTINF:1,7 - Arte (HD)
+#EXTGRP:France
 rtsp://mafreebox.freebox.fr/fbxtv_pub/stream?namespace=1&service=204&flavour=hd
-#EXTINF:-1,8 - C8 (standard)
-#EXTGRP:Principale
+#EXTINF:1,8 - C8 (standard)
+#EXTGRP:France
 rtsp://mafreebox.freebox.fr/fbxtv_pub/stream?namespace=1&service=372&flavour=sd
-#EXTINF:-1,27 - franceinfo (HD)
-#EXTGRP:Principale
+#EXTINF:1,27 - franceinfo (HD)
+#EXTGRP:France
 rtsp://mafreebox.freebox.fr/fbxtv_pub/stream?namespace=1&service=1173&flavour=hd
-#EXTINF:-1,15 - BFM TV (HD)
-#EXTGRP:Principale
+#EXTINF:1,15 - BFM TV (HD)
+#EXTGRP:France
 rtsp://mafreebox.freebox.fr/fbxtv_pub/stream?namespace=1&service=400&flavour=hd
-#EXTINF:-1,16 - CNews (standard)
-#EXTGRP:Principale
+#EXTINF:1,16 - CNews (standard)
+#EXTGRP:France
 rtsp://mafreebox.freebox.fr/fbxtv_pub/stream?namespace=1&service=679&flavour=sd
-#EXTINF:-1,24 - RMC Découverte (HD)
-#EXTGRP:Principale
+#EXTINF:1,24 - RMC Découverte (HD)
+#EXTGRP:France
 rtsp://mafreebox.freebox.fr/fbxtv_pub/stream?namespace=1&service=997&flavour=hd
-#EXTINF:-1,23 - RMC Story (HD)
-#EXTGRP:Principale
+#EXTINF:1,23 - RMC Story (HD)
+#EXTGRP:France
 rtsp://mafreebox.freebox.fr/fbxtv_pub/stream?namespace=1&service=996&flavour=hd
-#EXTINF:-1,25 - Chérie 25 (HD)
-#EXTGRP:Principale
+#EXTINF:1,25 - Chérie 25 (HD)
+#EXTGRP:France
 rtsp://mafreebox.freebox.fr/fbxtv_pub/stream?namespace=1&service=998&flavour=hd
-#EXTINF:-1,21 - L'Equipe (HD)
-#EXTGRP:Principale
+#EXTINF:1,21 - L'Equipe (HD)
+#EXTGRP:France
 rtsp://mafreebox.freebox.fr/fbxtv_pub/stream?namespace=1&service=994&flavour=hd
-#EXTINF:-1,17 - CStar (HD)
-#EXTGRP:Principale
+#EXTINF:1,17 - CStar (HD)
+#EXTGRP:France
 rtsp://mafreebox.freebox.fr/fbxtv_pub/stream?namespace=1&service=678&flavour=hd
-#EXTINF:-1,18 - Gulli (HD)
-#EXTGRP:Principale
+#EXTINF:1,18 - Gulli (HD)
+#EXTGRP:France
 rtsp://mafreebox.freebox.fr/fbxtv_pub/stream?namespace=1&service=677&flavour=hd
-#EXTINF:-1,12 - NRJ 12 (HD)
-#EXTGRP:Principale
+#EXTINF:1,12 - NRJ 12 (HD)
+#EXTGRP:France
 rtsp://mafreebox.freebox.fr/fbxtv_pub/stream?namespace=1&service=375&flavour=hd
-#EXTINF:-1,347 - BFM Business (HD)
-#EXTGRP:News
-rtsp://mafreebox.freebox.fr/fbxtv_pub/stream?namespace=1&service=897&flavour=hd
-#EXTINF:-1,359 - RT France (HD)
-#EXTGRP:News
-rtsp://mafreebox.freebox.fr/fbxtv_pub/stream?namespace=1&service=1304&flavour=hd
-#EXTINF:-1,340 - France 24 (standard)
-#EXTGRP:News
-rtsp://mafreebox.freebox.fr/fbxtv_pub/stream?namespace=1&service=739&flavour=sd
-#EXTINF:-1,342 - France 24 Arab (standard)
-#EXTGRP:News
-rtsp://mafreebox.freebox.fr/fbxtv_pub/stream?namespace=1&service=741&flavour=sd
-#EXTINF:-1,345 - Euronews (standard)
-#EXTGRP:News
-rtsp://mafreebox.freebox.fr/fbxtv_pub/stream?namespace=1&service=205&flavour=sd
-#EXTINF:-1,346 - Euronews Int (standard)
-#EXTGRP:News
-rtsp://mafreebox.freebox.fr/fbxtv_pub/stream?namespace=1&service=949&flavour=sd
-#EXTINF:-1,350 - Sky News International (standard)
-#EXTGRP:News
-rtsp://mafreebox.freebox.fr/fbxtv_pub/stream?namespace=1&service=355&flavour=sd
-#EXTINF:-1,353 - Bloomberg TV (standard)
-#EXTGRP:News
-rtsp://mafreebox.freebox.fr/fbxtv_pub/stream?namespace=1&service=207&flavour=sd
-#EXTINF:-1,354 - CNBC (standard)
-#EXTGRP:News
-rtsp://mafreebox.freebox.fr/fbxtv_pub/stream?namespace=1&service=208&flavour=sd
-#EXTINF:-1,355 - Al Jazeera International (standard)
-#EXTGRP:News
-rtsp://mafreebox.freebox.fr/fbxtv_pub/stream?namespace=1&service=494&flavour=sd
-#EXTINF:-1,357 - i24 News (standard)
-#EXTGRP:News
-rtsp://mafreebox.freebox.fr/fbxtv_pub/stream?namespace=1&service=1048&flavour=ld
-#EXTINF:-1,344 - Public Sénat (HD)
-#EXTGRP:News
-rtsp://mafreebox.freebox.fr/fbxtv_pub/stream?namespace=1&service=692&flavour=hd
-#EXTINF:-1,343 - LCP - Assemblée Nationale 24h/24 (HD)
-#EXTGRP:News
-rtsp://mafreebox.freebox.fr/fbxtv_pub/stream?namespace=1&service=688&flavour=hd
-#EXTINF:-1,358 - NHK World-Japan (HD)
-#EXTGRP:News
-rtsp://mafreebox.freebox.fr/fbxtv_pub/stream?namespace=1&service=812&flavour=hd
-#EXTINF:-1,47 - #ALaMaison (HD)
-#EXTGRP:Divertissement
-rtsp://mafreebox.freebox.fr/fbxtv_pub/stream?namespace=1&service=1426&flavour=hd
-#EXTINF:-1,231 - 01 TV (HD)
-#EXTGRP:Divertissement
-rtsp://mafreebox.freebox.fr/fbxtv_pub/stream?namespace=1&service=1424&flavour=hd
-#EXTINF:-1,50 - Game One (HD)
-#EXTGRP:Divertissement
-rtsp://mafreebox.freebox.fr/fbxtv_pub/stream?namespace=1&service=220&flavour=hd
-#EXTINF:-1,89 - Game One +1 (standard)
-#EXTGRP:Divertissement
-rtsp://mafreebox.freebox.fr/fbxtv_pub/stream?namespace=1&service=979&flavour=ld
-#EXTINF:-1,221 - Connaissances du monde (HD)
-#EXTGRP:Divertissement
-rtsp://mafreebox.freebox.fr/fbxtv_pub/stream?namespace=1&service=1384&flavour=hd
-#EXTINF:-1,97 - Comedy Central (HD)
-#EXTGRP:Divertissement
-rtsp://mafreebox.freebox.fr/fbxtv_pub/stream?namespace=1&service=1318&flavour=hd
-#EXTINF:-1,94 - GONG (HD)
-#EXTGRP:Divertissement
-rtsp://mafreebox.freebox.fr/fbxtv_pub/stream?namespace=1&service=1045&flavour=hd
-#EXTINF:-1,91 - ES1 (HD)
-#EXTGRP:Divertissement
-rtsp://mafreebox.freebox.fr/fbxtv_pub/stream?namespace=1&service=1309&flavour=hd
-#EXTINF:-1,237 - Luxe.TV (HD)
-#EXTGRP:Divertissement
-rtsp://mafreebox.freebox.fr/fbxtv_pub/stream?namespace=1&service=460&flavour=hd
-#EXTINF:-1,100 - Festival 4K (4K)
-#EXTGRP:Divertissement
-rtsp://mafreebox.freebox.fr/fbxtv_pub/stream?namespace=1&service=1134&flavour=hd
-#EXTINF:-1,51 - AB 1 (HD)
-#EXTGRP:Divertissement
-rtsp://mafreebox.freebox.fr/fbxtv_pub/stream?namespace=1&service=211&flavour=hd
-#EXTINF:-1,70 - TV5 Monde (HD)
-#EXTGRP:Divertissement
-rtsp://mafreebox.freebox.fr/fbxtv_pub/stream?namespace=1&service=206&flavour=hd
-#EXTINF:-1,180 - Automoto (HD)
-#EXTGRP:Divertissement
-rtsp://mafreebox.freebox.fr/fbxtv_pub/stream?namespace=1&service=222&flavour=hd
-#EXTINF:-1,182 - Motorvision (HD)
-#EXTGRP:Divertissement
-rtsp://mafreebox.freebox.fr/fbxtv_pub/stream?namespace=1&service=1127&flavour=hd
-#EXTINF:-1,183 - Nautical Channel (HD)
-#EXTGRP:Divertissement
-rtsp://mafreebox.freebox.fr/fbxtv_pub/stream?namespace=1&service=255&flavour=hd
-#EXTINF:-1,211 - Souvenirs from Earth (HD)
-#EXTGRP:Divertissement
-rtsp://mafreebox.freebox.fr/fbxtv_pub/stream?namespace=1&service=710&flavour=hd
-#EXTINF:-1,274 - Clubbing TV (HD)
-#EXTGRP:Divertissement
-rtsp://mafreebox.freebox.fr/fbxtv_pub/stream?namespace=1&service=767&flavour=hd
-#EXTINF:-1,283 - People 24
-#EXTGRP:Divertissement
-rtsp://mafreebox.freebox.fr/fbxtv_pub/stream?namespace=1&service=981&flavour=ld
-#EXTINF:-1,480 - Medi1TV (standard)
+#EXTINF:1 tvg-id="W9.fr" tvg-country="FR" tvg-language="French" tvg-logo="https://i.imgur.com/7FFFvCN.jpg" g...,W9 (720p)
+#EXTGRP:France
+http://flusonic-1.platinum-tv.com/W9/mono.m3u8?token=test
+#EXTINF:1 tvg-id="TV5MondeEurope.fr" tvg-country="FR" tvg-language="French" tvg-logo="https://i.imgur.com/mw...,TV5 Monde Europe (1080p)
+#EXTGRP:France Backup
+http://v3plusinfo247hls-i.akamaihd.net/hls/live/218877-b/v3plusinfo247hls/master.m3u8
+#EXTINF:1 tvg-id="CSTAR.fr" tvg-country="FR" tvg-language="French" tvg-logo="https://i.imgur.com/kPvRgcY.png...,CSTAR (720p)
+#EXTGRP:France Backup
+http://flusonic-4.platinum-tv.com/D17/tracks-v1a1/mono.m3u8?token=test
+#EXTINF:1 tvg-id="France2.fr" tvg-country="FR" tvg-language="French" tvg-logo="https://i.postimg.cc/SKxgxTLz...,France 2 (720p) [Not 24/7]
+#EXTGRP:France Backup
+http://edge9.iptvnetwork.net/live/france2/playlist.m3u8
+#EXTINF:1 tvg-id="France3.fr" tvg-country="FR" tvg-language="French" tvg-logo="https://i.postimg.cc/JzmT94Gx...,France 3 (720p) [Not 24/7]
+#EXTGRP:France Backup
+http://edge9.iptvnetwork.net/live/france3/playlist.m3u8
+#EXTINF:1 tvg-id="France5.fr" tvg-country="FR" tvg-language="French" tvg-logo="https://i.postimg.cc/8zjFkLJz...,France 5 (720p) [Not 24/7]
+#EXTGRP:France Backup
+http://edge9.iptvnetwork.net/live/france5/playlist.m3u8
+#EXTINF:1 tvg-id="France24Francais.fr" tvg-country="FR" tvg-language="French" tvg-logo="https://i.imgur.com/...,France 24 Français (1080p)
+#EXTGRP:France Backup
+https://static.france24.com/live/F24_FR_HI_HLS/live_tv.m3u8
+#EXTINF:1 tvg-id="EuronewsFrancais.fr" tvg-country="FR" tvg-language="French" tvg-logo="https://upload.wikim...,Euronews Français (720p)
+#EXTGRP:France Backup
+https://rakuten-euronews-2-be.samsung.wurl.com/manifest/playlist.m3u8
+#EXTINF:1 tvg-id="Franceinfo.fr" tvg-country="FR" tvg-language="French" tvg-logo="" group-title="French",Franceinfo (720p) [Not 24/7]
+#EXTGRP:France Backup
+http://free.fullspeed.tv/query?url=https://www.youtube.com/c/franceinfo/live
+#EXTINF:1 tvg-id="Gulli.fr" tvg-country="FR" tvg-language="French" tvg-logo="https://i.imgur.com/mMWq0Kn.png...,Gulli (540p)
+#EXTGRP:France Backup
+https://d13anarbtxy8c5.cloudfront.net/6play/short/clr/gulli/sdindex.m3u8
+#EXTINF:1 tvg-id="Cnews.fr" tvg-country="FR" tvg-language="French" tvg-logo="https://i.postimg.cc/vT6GMpCV/c...,Cnews (1080p) [Not 24/7]
+#EXTGRP:France Backup
+http://free.fullspeed.tv/query?url=https://www.dailymotion.com/video/x3b68jn
+#EXTINF:1 tvg-id="BFMBusiness.fr" tvg-country="FR" tvg-language="French" tvg-logo="https://i.imgur.com/mihuj...,BFM Business (480p)
+#EXTGRP:France Backup
+https://bfmbusinesshds-lh.akamaihd.net/i/BFMBUSINESS_ESYTLS@664128/master.m3u8
+#EXTINF:1 tvg-id="ARTEFrancais.fr" tvg-country="FR" tvg-language="French" tvg-logo="https://www.arte.tv/site...,ARTE Français (720p) [Geo-blocked]
+#EXTGRP:France Backup
+https://artesimulcast.akamaized.net/hls/live/2031003/artelive_fr/index.m3u8
+#EXTINF:1 tvg-id="BFMTV.fr" tvg-country="FR" tvg-language="French" tvg-logo="https://i.imgur.com/ClMYrD0.png...,BFMTV (720p)
+#EXTGRP:France Backup
+https://bfmtvalive1-a.akamaihd.net/2a233d36eeeb4367b7b6e9fa069d9fe9/eu-central-1/876450610001/7b4151e1e2434a7cacdb9936db7a7910/playlist_ssaiM.m3u8
+#EXTINF:1 tvg-id="RTFrance.ru" tvg-country="FR" tvg-language="French" tvg-logo="https://i.imgur.com/gVedXRh....,RT France (1080p)
+#EXTGRP:France Backup
+https://rt-fra.gcdn.co/live/rtfrance/playlist.m3u8
+#EXTINF:1 tvg-id="LCI.fr" tvg-country="FR;BE;CH;LU" tvg-language="French" tvg-logo="https://i.imgur.com/6Vzd...,LCI (720p)
+#EXTGRP:France Backup
+https://lci-hls-live-ssl.tf1.fr/lci/1/hls/live_2328.m3u8
+#EXTINF:1 tvg-id="BoingFrance.it" tvg-country="FR" tvg-language="French" tvg-logo="https://i.imgur.com/mIbmY...,Boing France (720p) [Not 24/7]
+#EXTGRP:France Backup
+http://flusonic-1.platinum-tv.com/boing/index.m3u8?token=test
+#EXTINF:1 tvg-id="2MMonde.ma" tvg-country="MA" tvg-language="Arabic;French" tvg-logo="https://i.imgur.com/Cw...,2M Monde (360p)
+#EXTGRP:Arab
+https://cdnamd-hls-globecast.akamaized.net/live/ramdisk/2m_monde/hls_video_ts/2m_monde.m3u8
+#EXTINF:1,480 - Medi1TV (standard)
 #EXTGRP:Arab
 rtsp://mafreebox.freebox.fr/fbxtv_pub/stream?namespace=1&service=730&flavour=sd
-#EXTINF:-1,565 - TVM Europe (standard)
+#EXTINF:1,565 - TVM Europe (standard)
 #EXTGRP:Arab
 rtsp://mafreebox.freebox.fr/fbxtv_pub/stream?namespace=1&service=273&flavour=sd
-#EXTINF:-1,558 - Arriyadia (standard)
+#EXTINF:1,558 - Arriyadia (standard)
 #EXTGRP:Arab
 rtsp://mafreebox.freebox.fr/fbxtv_pub/stream?namespace=1&service=908&flavour=ld
-#EXTINF:-1,569 - Al Jazeera (standard)
+#EXTINF:1 tvg-id="Arryadia.ma" tvg-country="MA" tvg-language="Arabic" tvg-logo="https://i.imgur.com/liFebM9....,Arryadia (360p) [Not 24/7]
 #EXTGRP:Arab
+https://cdnamd-hls-globecast.akamaized.net/live/ramdisk/arriadia/hls_snrt/index.m3u8
+#EXTINF:1 tvg-id="MBC5.ae" tvg-country="MA" tvg-language="Arabic" tvg-logo="https://upload.wikimedia.org/wik...,MBC 5 (1080p)
+#EXTGRP:Arab
+https://shls-mbc5-prod-dub.shahid.net/out/v1/2720564b6a4641658fdfb6884b160da2/index.m3u8
+#EXTINF:1 tvg-id="AlAoula.ma" tvg-country="MA" tvg-language="Arabic" tvg-logo="https://i.imgur.com/ZFHjIVU.p...,Al Aoula (360p) [Not 24/7]
+#EXTGRP:Arab
+http://cdn-hls.globecast.tv/live/ramdisk/al_aoula_inter/hls_snrt/index.m3u8
+#EXTINF:1 tvg-id="MBC.ae" tvg-country="ARAB" tvg-language="Arabic" tvg-logo="https://i.imgur.com/eKBXOKd.png...,MBC 1 KSA (1080p)
+#EXTGRP:Arab
+https://shls-mbc1ksa-ak.akamaized.net/out/v1/451b666db1fb41c7a4bbecf7b4865107/index.m3u8
+#EXTINF:1 tvg-id="MBC4.ae" tvg-country="ARAB" tvg-language="Arabic" tvg-logo="https://i.imgur.com/pfF61uH.pn...,MBC 4 (1080p)
+#EXTGRP:Arab
+https://shls-mbc4-prod-dub.shahid.net/out/v1/c08681f81775496ab4afa2bac7ae7638/index.m3u8
+#EXTINF:1 tvg-id="MBC3.ae" tvg-country="ARAB" tvg-language="Arabic" tvg-logo="https://i.imgur.com/FVNVC73.pn...,MBC 3 (1080p)
+#EXTGRP:Arab
+https://shls-mbc3-prod-dub.shahid.net/out/v1/d5bbe570e1514d3d9a142657d33d85e6/index.m3u8
+#EXTINF:1 tvg-id="Spacetoon.sy" tvg-country="SY" tvg-language="Arabic" tvg-logo="https://i.imgur.com/RzPOwqI...,Spacetoon (1080p)
+#EXTGRP:Arab
+https://shls-spacetoon-prod-dub.shahid.net/out/v1/6240b773a3f34cca95d119f9e76aec02/index.m3u8
+#EXTINF:1 tvg-id="CartoonNetworkArabic.us" tvg-country="MENA" tvg-language="Arabic" tvg-logo="https://upload...,Cartoon Network Arabic (1080p)
+#EXTGRP:Arab
+https://shls-cartoon-net-prod-dub.shahid.net/out/v1/dc4aa87372374325a66be458f29eab0f/index.m3u8
+#EXTINF:1 tvg-id="MBCEgypt.ae" tvg-country="EG" tvg-language="Arabic" tvg-logo="https://www.lyngsat.com/logo...,MBC Masr 1 (1080p)
+#EXTGRP:Arab
+https://shls-masr-prod-dub.shahid.net/out/v1/b7093401da27496797a8949de23f4578/index.m3u8
+#EXTINF:1 tvg-id="MBCMasr2.ae" tvg-country="EG" tvg-language="Arabic" tvg-logo="https://www.lyngsat.com/logo...,MBC Masr 2 (1080p)
+#EXTGRP:Arab
+https://shls-masr2-prod-dub.shahid.net/out/v1/f683685242b549f48ea8a5171e3e993a/index.m3u8
+#EXTINF:1 tvg-id="MBCBollywood.ae" tvg-country="ARAB" tvg-language="Arabic" tvg-logo="https://i.imgur.com/fM...,MBC Bollywood (1080p)
+#EXTGRP:Arab
+https://shls-mbcbollywood-prod-dub.shahid.net/out/v1/a79c9d7ef2a64a54a64d5c4567b3462a/index.m3u8
+#EXTINF:1 tvg-id="CBC.eg" tvg-country="EG" tvg-language="Arabic" tvg-logo="" group-title="Arabic",CBC (720p) [Not 24/7]
+#EXTGRP:Arab
+http://free.fullspeed.tv/query?url=https://www.youtube.com/c/cbcstream/live
+#EXTINF:1 tvg-id="RotanaCinema.sa" tvg-country="SA" tvg-language="Arabic" tvg-logo="https://rotana.net/asset...,Rotana Cinema (1080p)
+#EXTGRP:Arab
+https://shls-rotanacinema-egy-prod-dub.shahid.net/out/v1/c39c0ecbcbdb46e890e91106776397a8/index.m3u8
+#EXTINF:1,47 - #ALaMaison (HD)
+#EXTGRP:Divertissement
+rtsp://mafreebox.freebox.fr/fbxtv_pub/stream?namespace=1&service=1426&flavour=hd
+#EXTINF:1,231 - 01 TV (HD)
+#EXTGRP:Divertissement
+rtsp://mafreebox.freebox.fr/fbxtv_pub/stream?namespace=1&service=1424&flavour=hd
+#EXTINF:1,50 - Game One (HD)
+#EXTGRP:Divertissement
+rtsp://mafreebox.freebox.fr/fbxtv_pub/stream?namespace=1&service=220&flavour=hd
+#EXTINF:1,89 - Game One +1 (standard)
+#EXTGRP:Divertissement
+rtsp://mafreebox.freebox.fr/fbxtv_pub/stream?namespace=1&service=979&flavour=ld
+#EXTINF:1,221 - Connaissances du monde (HD)
+#EXTGRP:Divertissement
+rtsp://mafreebox.freebox.fr/fbxtv_pub/stream?namespace=1&service=1384&flavour=hd
+#EXTINF:1,97 - Comedy Central (HD)
+#EXTGRP:Divertissement
+rtsp://mafreebox.freebox.fr/fbxtv_pub/stream?namespace=1&service=1318&flavour=hd
+#EXTINF:1,94 - GONG (HD)
+#EXTGRP:Divertissement
+rtsp://mafreebox.freebox.fr/fbxtv_pub/stream?namespace=1&service=1045&flavour=hd
+#EXTINF:1,91 - ES1 (HD)
+#EXTGRP:Divertissement
+rtsp://mafreebox.freebox.fr/fbxtv_pub/stream?namespace=1&service=1309&flavour=hd
+#EXTINF:1,237 - Luxe.TV (HD)
+#EXTGRP:Divertissement
+rtsp://mafreebox.freebox.fr/fbxtv_pub/stream?namespace=1&service=460&flavour=hd
+#EXTINF:1,100 - Festival 4K (4K)
+#EXTGRP:Divertissement
+rtsp://mafreebox.freebox.fr/fbxtv_pub/stream?namespace=1&service=1134&flavour=hd
+#EXTINF:1,51 - AB 1 (HD)
+#EXTGRP:Divertissement
+rtsp://mafreebox.freebox.fr/fbxtv_pub/stream?namespace=1&service=211&flavour=hd
+#EXTINF:1,70 - TV5 Monde (HD)
+#EXTGRP:Divertissement
+rtsp://mafreebox.freebox.fr/fbxtv_pub/stream?namespace=1&service=206&flavour=hd
+#EXTINF:1,180 - Automoto (HD)
+#EXTGRP:Divertissement
+rtsp://mafreebox.freebox.fr/fbxtv_pub/stream?namespace=1&service=222&flavour=hd
+#EXTINF:1,182 - Motorvision (HD)
+#EXTGRP:Divertissement
+rtsp://mafreebox.freebox.fr/fbxtv_pub/stream?namespace=1&service=1127&flavour=hd
+#EXTINF:1,183 - Nautical Channel (HD)
+#EXTGRP:Divertissement
+rtsp://mafreebox.freebox.fr/fbxtv_pub/stream?namespace=1&service=255&flavour=hd
+#EXTINF:1,211 - Souvenirs from Earth (HD)
+#EXTGRP:Divertissement
+rtsp://mafreebox.freebox.fr/fbxtv_pub/stream?namespace=1&service=710&flavour=hd
+#EXTINF:1,274 - Clubbing TV (HD)
+#EXTGRP:Divertissement
+rtsp://mafreebox.freebox.fr/fbxtv_pub/stream?namespace=1&service=767&flavour=hd
+#EXTINF:1,283 - People 24
+#EXTGRP:Divertissement
+rtsp://mafreebox.freebox.fr/fbxtv_pub/stream?namespace=1&service=981&flavour=ld
+#EXTINF:1 tvg-id="BloombergQuicktake.us" tvg-country="US" tvg-language="English" tvg-logo="https://www.adwee...,Bloomberg Quicktake (1080p)
+#EXTGRP:Divertissement
+https://bloomberg-quicktake-1-au.samsung.wurl.com/manifest/playlist.m3u8
+#EXTINF:1 tvg-id="HistoryEast.us" tvg-country="US" tvg-language="English" tvg-logo="http://i1.kym-cdn.com/en...,History East (720p) [Not 24/7]
+#EXTGRP:Divertissement
+https://bk7l2w4nlx53-hls-live.5centscdn.com/HISTORY/961ac1c875f5884f31bdd177365ef1e3.sdp/playlist.m3u8
+#EXTINF:1 tvg-id="NationalGeographicAbuDhabi.us" tvg-country="US" tvg-language="Arabic" tvg-logo="https://up...,National Geographic Abu Dhabi (1080p)
+#EXTGRP:Divertissement
+http://admdn2.cdn.mangomolo.com/nagtv/smil:nagtv.stream.smil/playlist.m3u8
+#EXTINF:1 tvg-id="RTDocumentary.ru" tvg-country="INT" tvg-language="English" tvg-logo="https://i.imgur.com/X...,RT Documentary (1080p)
+#EXTGRP:Divertissement
+https://rt-rtd.gcdn.co/live/rtdoc/playlist.m3u8
+#EXTINF:1 tvg-id="Docurama.us" tvg-country="US" tvg-language="English" tvg-logo="https://i.imgur.com/5X5Z5eg...,Docurama (1080p)
+#EXTGRP:Divertissement
+https://cinedigm.vo.llnwd.net/conssui/amagi_hls_data_xumo1234A-docuramaA/CDN/master.m3u8
+#EXTINF:1 tvg-id="CrimeTime.us" tvg-country="US" tvg-language="English" tvg-logo="https://i.imgur.com/cQxKMM...,Crime Time (1080p)
+#EXTGRP:Divertissement
+https://crimetimebamca-roku.amagi.tv/playlist.m3u8
+#EXTINF:1 tvg-id="AMCAbsoluteReality.us" tvg-country="US" tvg-language="English" tvg-logo="https://i.imgur.c...,AMC Absolute Reality (1080p)
+#EXTGRP:Divertissement
+https://amc-absolutereality-1.vizio.wurl.com/manifest/playlist.m3u8
+#EXTINF:1 tvg-id="ComedyChannel.uk" tvg-country="UK" tvg-language="English" tvg-logo="https://i.imgur.com/Wy...,Comedy Channel (1080p)
+#EXTGRP:Divertissement
+https://uksono1-samsunguk.amagi.tv/playlist.m3u8
+#EXTINF:1 tvg-id="PlutoTVVoyagerDocumentaries.us" tvg-country="US" tvg-language="English" tvg-logo="http://i...,Pluto TV Voyager Documentaries (720p)
+#EXTGRP:Divertissement
+https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/589aa03df9ba56a84197a560/master.m3u8?advertisingId=&appName=web&appStoreUrl=&appVersion=DNT&app_name=&architecture=&buildVersion=&deviceDNT=0&deviceId=589aa03df9ba56a84197a560&deviceLat=&deviceLon=&deviceMake=web&deviceModel=web&deviceType=web&deviceVersion=DNT&includeExtendedEvents=false&marketingRegion=US&serverSideAds=false&sid=681&terminate=false&userId=
+#EXTINF:1,569 - Al Jazeera (standard)
+#EXTGRP:News
 rtsp://mafreebox.freebox.fr/fbxtv_pub/stream?namespace=1&service=276&flavour=sd
+#EXTINF:1,347 - BFM Business (HD)
+#EXTGRP:News
+rtsp://mafreebox.freebox.fr/fbxtv_pub/stream?namespace=1&service=897&flavour=hd
+#EXTINF:1,359 - RT France (HD)
+#EXTGRP:News
+rtsp://mafreebox.freebox.fr/fbxtv_pub/stream?namespace=1&service=1304&flavour=hd
+#EXTINF:1,340 - France 24 (standard)
+#EXTGRP:News
+rtsp://mafreebox.freebox.fr/fbxtv_pub/stream?namespace=1&service=739&flavour=sd
+#EXTINF:1,342 - France 24 Arab (standard)
+#EXTGRP:News
+rtsp://mafreebox.freebox.fr/fbxtv_pub/stream?namespace=1&service=741&flavour=sd
+#EXTINF:1,345 - Euronews (standard)
+#EXTGRP:News
+rtsp://mafreebox.freebox.fr/fbxtv_pub/stream?namespace=1&service=205&flavour=sd
+#EXTINF:1,346 - Euronews Int (standard)
+#EXTGRP:News
+rtsp://mafreebox.freebox.fr/fbxtv_pub/stream?namespace=1&service=949&flavour=sd
+#EXTINF:1,350 - Sky News International (standard)
+#EXTGRP:News
+rtsp://mafreebox.freebox.fr/fbxtv_pub/stream?namespace=1&service=355&flavour=sd
+#EXTINF:1,353 - Bloomberg TV (standard)
+#EXTGRP:News
+rtsp://mafreebox.freebox.fr/fbxtv_pub/stream?namespace=1&service=207&flavour=sd
+#EXTINF:1,354 - CNBC (standard)
+#EXTGRP:News
+rtsp://mafreebox.freebox.fr/fbxtv_pub/stream?namespace=1&service=208&flavour=sd
+#EXTINF:1,355 - Al Jazeera International (standard)
+#EXTGRP:News
+rtsp://mafreebox.freebox.fr/fbxtv_pub/stream?namespace=1&service=494&flavour=sd
+#EXTINF:1,357 - i24 News (standard)
+#EXTGRP:News
+rtsp://mafreebox.freebox.fr/fbxtv_pub/stream?namespace=1&service=1048&flavour=ld
+#EXTINF:1,344 - Public Sénat (HD)
+#EXTGRP:News
+rtsp://mafreebox.freebox.fr/fbxtv_pub/stream?namespace=1&service=692&flavour=hd
+#EXTINF:1,343 - LCP - Assemblée Nationale 24h/24 (HD)
+#EXTGRP:News
+rtsp://mafreebox.freebox.fr/fbxtv_pub/stream?namespace=1&service=688&flavour=hd
+#EXTINF:1,358 - NHK World-Japan (HD)
+#EXTGRP:News
+rtsp://mafreebox.freebox.fr/fbxtv_pub/stream?namespace=1&service=812&flavour=hd
+#EXTINF:1,569 - Al Jazeera (standard)
+#EXTGRP:News
+rtsp://mafreebox.freebox.fr/fbxtv_pub/stream?namespace=1&service=276&flavour=sd
+#EXTINF:1 tvg-id="BBCArabic.uk" tvg-country="ARAB" tvg-language="Arabic" tvg-logo="https://i.imgur.com/oFGPG...,BBC Arabic (720p)
+#EXTGRP:News
+https://vs-cmaf-pushb-ww-live.akamaized.net/x=3/i=urn:bbc:pips:service:bbc_arabic_tv/pc_hd_abr_v2_akamai_dash_live.mpd
+#EXTINF:1 tvg-id="SkyNewsArabia.uk" tvg-country="ARAB" tvg-language="Arabic" tvg-logo="https://i.imgur.com/k...,Sky News Arabia (720p) [Not 24/7]
+#EXTGRP:News
+https://stream.skynewsarabia.com/hls/sna.m3u8
+#EXTINF:1 tvg-id="ABCNews.us" tvg-country="US" tvg-language="English" tvg-logo="https://images-na.ssl-images...,ABC News (1080p)
+#EXTGRP:News
+https://dai2.xumo.com/amagi_hls_data_xumo1212A-abcnews/CDN/master.m3u8
+#EXTINF:1 tvg-id="BloombergTVEurope.us" tvg-country="EUR" tvg-language="English" tvg-logo="http://cdn-profil...,Bloomberg TV Europe UHD (2160p)
+#EXTGRP:News
+https://bloomberg-bloombergtv-1-it.samsung.wurl.com/manifest/playlist.m3u8
+#EXTINF:1 tvg-id="CBCNews.ca" tvg-country="CA" tvg-language="English" tvg-logo="https://i.imgur.com/SGbZKbJ....,CBC News (720p)
+#EXTGRP:News
+https://cbcnewshd-f.akamaihd.net/i/cbcnews_1@8981/index_2500_av-p.m3u8
+#EXTINF:1 tvg-id="CNNInternationalEurope.us" tvg-country="EUR" tvg-language="English" tvg-logo="https://i.im...,CNN International Europe (720p)
+#EXTGRP:News
+https://cnn-cnninternational-1-eu.rakuten.wurl.com/manifest/playlist.m3u8
+#EXTINF:1 tvg-id="FoxNewsChannel.us" tvg-country="US" tvg-language="English" tvg-logo="http://static.epg.bes...,Fox News Channel (720p)
+#EXTGRP:News
+http://1111296894.rsc.cdn77.org/ls-54548-2/mono.m3u8
+#EXTINF:1 tvg-id="FashionTVMidniteSecrets.fr" tvg-country="FR" tvg-language="" tvg-logo="https://static.iptv...,Fashion TV Midnite Secrets (1080p)
+#EXTGRP:Adult
+https://fash1043.cloudycdn.services/slive/ftv_ftv_midnite_k1y_27049_midnite_secr_108_hls.smil/playlist.m3u8
+#EXTINF:1 tvg-id="JasminTV.lu" tvg-country="LU" tvg-language="English" tvg-logo="https://www.parsatv.com/ind...,Jasmin TV (720p)
+#EXTGRP:Adult
+http://109.71.162.112/live/hd.jasminchannel.stream/playlist.m3u8
+#EXTINF:1 tvg-id="AdultIPTVnetAnal.us" tvg-country="INT" tvg-language="English" tvg-logo="" group-title="XXX...,AdultIPTV.net Anal (720p)
+#EXTGRP:Adult
+http://cdn.adultiptv.net/anal.m3u8
+#EXTINF:1 tvg-id="AdultIPTVnetAsian.us" tvg-country="INT" tvg-language="English" tvg-logo="" group-title="XX...,AdultIPTV.net Asian (720p)
+#EXTGRP:Adult
+http://cdn.adultiptv.net/asian.m3u8
+#EXTINF:1 tvg-id="AdultIPTVnetBigAss.us" tvg-country="INT" tvg-language="English" tvg-logo="" group-title="X...,AdultIPTV.net Big Ass (720p)
+#EXTGRP:Adult
+http://cdn.adultiptv.net/bigass.m3u8
+#EXTINF:1 tvg-id="AdultIPTVnetBigDick.us" tvg-country="INT" tvg-language="English" tvg-logo="" group-title="...,AdultIPTV.net Big Dick (720p)
+#EXTGRP:Adult
+http://cdn.adultiptv.net/bigdick.m3u8
+#EXTINF:1 tvg-id="AdultIPTVnetBigTits.us" tvg-country="INT" tvg-language="English" tvg-logo="" group-title="...,AdultIPTV.net Big Tits (720p)
+#EXTGRP:Adult
+http://cdn.adultiptv.net/bigtits.m3u8
+#EXTINF:1 tvg-id="AdultIPTVnetBlonde.us" tvg-country="INT" tvg-language="English" tvg-logo="" group-title="X...,AdultIPTV.net Blonde (720p)
+#EXTGRP:Adult
+http://cdn.adultiptv.net/blonde.m3u8
+#EXTINF:1 tvg-id="AdultIPTVnetBlowjob.us" tvg-country="INT" tvg-language="English" tvg-logo="" group-title="...,AdultIPTV.net Blowjob (720p)
+#EXTGRP:Adult
+http://cdn.adultiptv.net/blowjob.m3u8
+#EXTINF:1 tvg-id="AdultIPTVnetBrunette.us" tvg-country="INT" tvg-language="English" tvg-logo="" group-title=...,AdultIPTV.net Brunette (720p)
+#EXTGRP:Adult
+http://cdn.adultiptv.net/brunette.m3u8
+#EXTINF:1 tvg-id="AdultIPTVnetCompilation.us" tvg-country="INT" tvg-language="English" tvg-logo="" group-tit...,AdultIPTV.net Compilation (720p)
+#EXTGRP:Adult
+http://cdn.adultiptv.net/compilation.m3u8
+#EXTINF:1 tvg-id="AdultIPTVnetCuckold.us" tvg-country="INT" tvg-language="English" tvg-logo="" group-title="...,AdultIPTV.net Cuckold (720p)
+#EXTGRP:Adult
+http://cdn.adultiptv.net/cuckold.m3u8
+#EXTINF:1 tvg-id="AdultIPTVnetFetish.us" tvg-country="INT" tvg-language="English" tvg-logo="" group-title="X...,AdultIPTV.net Fetish (720p)
+#EXTGRP:Adult
+http://cdn.adultiptv.net/fetish.m3u8
+#EXTINF:1 tvg-id="AdultIPTVnetGangbang.us" tvg-country="INT" tvg-language="English" tvg-logo="" group-title=...,AdultIPTV.net Gangbang (720p)
+#EXTGRP:Adult
+http://cdn.adultiptv.net/gangbang.m3u8
+#EXTINF:1 tvg-id="AdultIPTVnetHardcore.us" tvg-country="INT" tvg-language="English" tvg-logo="" group-title=...,AdultIPTV.net Hardcore (720p)
+#EXTGRP:Adult
+http://cdn.adultiptv.net/hardcore.m3u8
+#EXTINF:1 tvg-id="AdultIPTVnetInterracial.us" tvg-country="INT" tvg-language="English" tvg-logo="" group-tit...,AdultIPTV.net Interracial (720p)
+#EXTGRP:Adult
+http://cdn.adultiptv.net/interracial.m3u8
+#EXTINF:1 tvg-id="AdultIPTVnetLatina.us" tvg-country="INT" tvg-language="English" tvg-logo="" group-title="X...,AdultIPTV.net Latina (720p)
+#EXTGRP:Adult
+http://cdn.adultiptv.net/latina.m3u8
+#EXTINF:1 tvg-id="AdultIPTVnetLesbian.us" tvg-country="INT" tvg-language="English" tvg-logo="" group-title="...,AdultIPTV.net Lesbian (720p)
+#EXTGRP:Adult
+http://cdn.adultiptv.net/lesbian.m3u8
+#EXTINF:1 tvg-id="AdultIPTVnetLiveCams.us" tvg-country="INT" tvg-language="English" tvg-logo="" group-title=...,AdultIPTV.net Live Cams (720p)
+#EXTGRP:Adult
+http://cdn.adultiptv.net/livecams.m3u8
+#EXTINF:1 tvg-id="AdultIPTVnetMILF.us" tvg-country="INT" tvg-language="English" tvg-logo="" group-title="XXX...,AdultIPTV.net MILF (720p)
+#EXTGRP:Adult
+http://cdn.adultiptv.net/milf.m3u8
+#EXTINF:1 tvg-id="AdultIPTVnetPornstar.us" tvg-country="INT" tvg-language="English" tvg-logo="" group-title=...,AdultIPTV.net Pornstar (720p)
+#EXTGRP:Adult
+http://cdn.adultiptv.net/pornstar.m3u8
+#EXTINF:1 tvg-id="AdultIPTVnetPOV.us" tvg-country="INT" tvg-language="English" tvg-logo="" group-title="XXX"...,AdultIPTV.net POV (720p)
+#EXTGRP:Adult
+http://cdn.adultiptv.net/pov.m3u8
+#EXTINF:1 tvg-id="AdultIPTVnetRough.us" tvg-country="INT" tvg-language="English" tvg-logo="" group-title="XX...,AdultIPTV.net Rough (720p)
+#EXTGRP:Adult
+http://cdn.adultiptv.net/rough.m3u8
+#EXTINF:1 tvg-id="AdultIPTVnetRussian.us" tvg-country="INT" tvg-language="English" tvg-logo="" group-title="...,AdultIPTV.net Russian (720p)
+#EXTGRP:Adult
+http://cdn.adultiptv.net/russian.m3u8
+#EXTINF:1 tvg-id="AdultIPTVnetTeen.us" tvg-country="INT" tvg-language="English" tvg-logo="" group-title="XXX...,AdultIPTV.net Teen (720p)
+#EXTGRP:Adult
+http://cdn.adultiptv.net/teen.m3u8
+#EXTINF:1 tvg-id="AdultIPTVnetThreesome.us" tvg-country="INT" tvg-language="English" tvg-logo="" group-title...,AdultIPTV.net Threesome (720p)
+#EXTGRP:Adult
+http://cdn.adultiptv.net/threesome.m3u8
+#EXTINF:1 tvg-id="AdultIPTVnetWoman.us" tvg-country="INT" tvg-language="English" tvg-logo="" group-title="XX...,AdultIPTV.net Woman (720p)
+#EXTGRP:Adult
+http://live.redtraffic.net/woman.m3u8
